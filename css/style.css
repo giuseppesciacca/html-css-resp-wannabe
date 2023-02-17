@@ -158,5 +158,10 @@ img {
         padding: 3rem 0;
         background-color: #1e1e1e;
     }
+}
 
+@media screen and (max-width:768px) {
+    .container {
+        max-width: 90%;
+    }
 }
