@@ -165,3 +165,9 @@ img {
         max-width: 90%;
     }
 }
+
+@media screen and (max-width:1160px) {
+    .container {
+        max-width: 80%;
+    }
+}
